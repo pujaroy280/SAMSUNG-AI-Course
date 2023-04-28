@@ -3,5 +3,6 @@
 
 SAMSUNG Innovation Campus: Artificial Intelligence Course – Data as Motivation 2022-2023
 
-![image](https://user-images.githubusercontent.com/62675121/226144623-428c810f-4fe2-43cb-bf1d-660ba6a56887.png)
+![image](https://user-images.githubusercontent.com/62675121/235269783-88dd2751-7c16-40b3-bec2-4db9426a2836.png)
+
 
